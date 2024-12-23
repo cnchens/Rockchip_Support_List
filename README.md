@@ -1,0 +1,2 @@
+# Rockchip_Support_List_DDR
+Rockchip_Support_List_DDR_Ver2_54_20220181
